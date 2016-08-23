@@ -1,0 +1,5 @@
+rootProject.name = 'simpleIO'
+include 'ifeveIO'
+include 'otherIO'
+include 'simpleDemo'
+
